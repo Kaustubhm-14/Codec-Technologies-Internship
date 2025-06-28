@@ -68,7 +68,3 @@ Identify fraudulent credit card transactions in a highly imbalanced dataset usin
 
 Both projects strengthened my understanding of supervised classification, real-world data challenges, and industry-standard ML workflows.
 
----
-
-## 📎 Repository Structure
-
